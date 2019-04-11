@@ -1,12 +1,12 @@
 /*
 //=============================================================================================================
 //
-//		Name        : 	xDLT Engine / Financial-Numeric / JS
-//		Author      : 	Joe K. Kim (JKK)
-//		Site		:	https://xdlt.org
-//		Version     : 	0.0.0
+//		Name        :   xDLT Engine / Financial-Numeric / JS
+//		Author      :   Joe K. Kim (JKK)
+//		Site        :   https://xdlt.org
+//		Version     :   0.0.0
 //		
-//		!!! Proprietary !!!
+//		!!!  Proprietary  !!!  For Audit-only Code Disclosure  !!!
 //
 //		© 2019 xDLT Inc. all rights reserved
 //		Written by Joe K. Kim <dev@xgovern.com>
