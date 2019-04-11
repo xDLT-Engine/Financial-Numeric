@@ -1,0 +1,23 @@
+{
+	"name": "financial-numeric",
+	"description": "High-precision Number (64 bytes per number; offering [77].[77] add/sub, [36].[36] mul/div precision)",
+	"version": "0.0.0",
+	"main": "financial-numeric.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author":"Joe K. Kim",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xDLT-Engine/Financial-Numeric"
+	},
+	"keywords":["finance","financial","financial numeric", "financial number","high precision","bigint"],
+	"bugs": {
+		"url": "https://github.com/xDLT-Engine/Financial-Numeric/issues"
+	},
+	"homepage": "https://xdlt.org",
+	"dependencies": {
+		"bigint-buffer": "^1.1.2"
+	}
+}
